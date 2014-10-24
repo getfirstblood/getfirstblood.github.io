@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
 url: http://getfirstblood.github.io/
-author: gaoweiwei
+author: getfirstblood
 pygments: true
 paginate: 24
