@@ -4,9 +4,8 @@ layout: page
 comments: yes
 ---
   
-##JIM    
+##getfirstblood
 
-个人邮箱:dashjim@gmail.com      
-新浪微博: [http://weibo.com/jijunxiang](http://weibo.com/jijunxiang)      
-github : [https://github.com/dashjim](https://github.com/dashjim)   
-Linkedin: [Ji Junxiang at Linkedin](http://www.linkedin.com/pub/junxiang-ji/58/97/b90)
+个人邮箱:792014707@qq.com
+腾讯微博: [http://t.qq.com/hell0-world](http://t.qq.com/hell0-world)      
+github : [https://github.com/getfirstblood](https://github.com/getfirstblood)   
