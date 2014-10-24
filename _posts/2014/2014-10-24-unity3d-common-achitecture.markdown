@@ -8,12 +8,6 @@ tags:
 ---
 
 
-# unity通用架构
-
-标签（空格分隔）： unity3d
-
----
-
 ##通用ui部分：（mvc模块）
 1. GUIManager部分：
 ```flow
