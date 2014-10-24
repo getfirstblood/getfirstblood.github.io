@@ -1,3 +1,13 @@
+---
+layout: post
+title: unity通用架构
+categories:
+- 技术文章
+tags:
+- unity3d
+---
+
+
 # unity通用架构
 
 标签（空格分隔）： unity3d
